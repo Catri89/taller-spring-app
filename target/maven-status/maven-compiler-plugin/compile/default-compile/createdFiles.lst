@@ -1,2 +1,5 @@
+ar\com\bbva\taller\app\repository\CustomerRepository.class
 ar\com\bbva\taller\app\AppApplication.class
+ar\com\bbva\taller\app\endpoint\CustomerController.class
 ar\com\bbva\taller\app\model\Greeting.class
+ar\com\bbva\taller\app\model\Customer.class
